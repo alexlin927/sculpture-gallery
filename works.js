@@ -608,5 +608,271 @@ const works = [
         "description": "暖かな木色の板に、大小の文字と連続する筆勢が広がります。刻線が書のリズムを伝え、柔らかな板の縁と添えられた手が、作品を眺め、分かち合う親しみを残しています。"
       }
     }
+  },
+  {
+    "id": 35,
+    "category": "名牌與人情",
+    "title": "林惠真 教授・舒展的筆勢",
+    "description": "細長筆畫與充足留白讓姓名顯得清朗，底座承接木牌，兼具桌面陳設的穩定感與書法的輕盈。",
+    "images": [
+      "images/35.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "林惠真 教授 · Flowing strokes",
+        "description": "Slender strokes and generous spacing give the name an airy rhythm. A shaped base supports the plaque, balancing the lightness of the lettering with a stable tabletop presence."
+      },
+      "ja": {
+        "title": "林惠真 教授・伸びやかな筆勢",
+        "description": "細い筆画とゆとりある余白が名前を明るく見せます。台座が木札を支え、書の軽やかさと卓上での安定感を両立させています。"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "category": "名牌與人情",
+    "title": "何佳安 教授・溫潤木紋中的端整",
+    "description": "圓厚字形與橫向木紋互相呼應，姓名與職銜以大小區分，讓實用名牌保有樸實而端整的氣質。",
+    "images": [
+      "images/36.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "何佳安 教授 · Quiet balance in the grain",
+        "description": "Rounded characters echo the horizontal grain. The difference in scale between name and title creates a clear hierarchy and a quiet, balanced composition."
+      },
+      "ja": {
+        "title": "何佳安 教授・木目に映える端正な文字",
+        "description": "丸みのある文字が横に流れる木目と響き合います。名前と肩書の大きさを変え、読みやすさと落ち着いた佇まいを整えています。"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "category": "名牌與人情",
+    "title": "李位仁 教授・一筆一畫的分量",
+    "description": "濃黑筆畫在細密木紋前呈現鮮明輪廓，轉折與收筆保留書寫力度，讓小小名牌也有沉穩的存在感。",
+    "images": [
+      "images/37.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "李位仁 教授 · Weight and rhythm",
+        "description": "Dark strokes stand clearly against the fine grain. Turns and tapered endings preserve the force of handwriting, giving the small plaque a substantial presence."
+      },
+      "ja": {
+        "title": "李位仁 教授・一画ごとの重み",
+        "description": "細かな木目を背景に、黒い筆画の輪郭が際立ちます。折れや払いに筆の力を残し、小さな名札に落ち着いた存在感を与えています。"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "category": "名牌與人情",
+    "title": "許琇雯 博士・細筆中的流動",
+    "description": "姓名的繁簡與筆畫疏密形成節奏，黑色刻字在暖色木面上閃現光澤，展現將書寫轉化為立體表面的趣味。",
+    "images": [
+      "images/38.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "許琇雯 博士 · Movement in fine strokes",
+        "description": "Contrasts in the density of the characters create a changing rhythm. Light on the dark lettering reveals the pleasure of turning handwriting into a carved surface."
+      },
+      "ja": {
+        "title": "許琇雯 博士・細い筆画の流れ",
+        "description": "文字の複雑さや筆画の密度が変化のあるリズムを生みます。暖かな木面の黒い文字に光が映り、書を彫刻へ移す面白さを伝えます。"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "category": "名牌與人情",
+    "title": "吳立真 教授・木紋與字形的對話",
+    "description": "明顯的木紋穿越姓名周圍，黑色文字與自然紋理各有節奏。圓潤邊角與柔和光線，帶出日常桌面物件的親切感。",
+    "images": [
+      "images/39.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "吳立真 教授 · Letters in conversation with wood",
+        "description": "Distinct grain flows around the name, allowing lettering and natural pattern to keep their own rhythms. Rounded edges lend this everyday desk object a welcoming warmth."
+      },
+      "ja": {
+        "title": "吳立真 教授・木目と文字の対話",
+        "description": "はっきりした木目が名前の周囲を流れ、文字と自然の模様がそれぞれのリズムを奏でます。丸い縁が、日々使う机上の品に親しみを添えています。"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "category": "名牌與人情",
+    "title": "連吉時 院長・疏密有致的排列",
+    "description": "姓名以較大字形展開，職銜在右側收束，筆畫的寬窄與字距相互協調。淺色木面襯出刻字的量感。",
+    "images": [
+      "images/40.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "連吉時 院長 · A measured arrangement",
+        "description": "The name opens in larger characters and the title completes the arrangement at the right. Varied stroke widths and measured spacing stand out on the pale wood."
+      },
+      "ja": {
+        "title": "連吉時 院長・間合いを生かした配置",
+        "description": "大きな名前の文字を広げ、右側の肩書で構成を収めました。筆画の太さと字間を調和させ、明るい木地で彫り文字の量感を引き立てています。"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "category": "名牌與人情",
+    "title": "鄭劍廷 院長・行筆的節奏",
+    "description": "筆畫長短與字形開合帶出行書般的動勢，姓名與職銜以留白分隔。細密木紋使整體維持沉著而自然的氣質。",
+    "images": [
+      "images/41.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "鄭劍廷 院長 · The rhythm of the brush",
+        "description": "Long and short strokes give the name a flowing energy, while a pause of empty space separates it from the title. Fine grain keeps the composition calm and natural."
+      },
+      "ja": {
+        "title": "鄭劍廷 院長・運筆のリズム",
+        "description": "長短の筆画と文字の開きが、行書のような動きを生みます。名前と肩書の間に余白を置き、細かな木目が全体を穏やかにまとめています。"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "category": "名牌與人情",
+    "title": "服部真介 公認會計士・跨越文字的名牌",
+    "description": "漢字姓名、英文連寫與職業名稱並列於木牌上，以字體與尺度建立層次。不同文字在同一木面相遇，也呈現名牌設計的多樣可能。",
+    "images": [
+      "images/42.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "服部真介 公認會計士 · Across scripts",
+        "description": "Japanese characters, a Latin-script name and a professional title share the wooden surface. Changes of scale and lettering style give each element a distinct place in the design."
+      },
+      "ja": {
+        "title": "服部真介 公認会計士・文字をつなぐ名札",
+        "description": "漢字の姓名、欧文の名前、職業名を一枚の木札に配しました。書体と大きさを変え、それぞれの文字を生かした構成にしています。"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "category": "名牌與人情",
+    "title": "笠井俊夫 教授・厚實筆畫的力量",
+    "description": "寬厚黑字與明亮木面形成清楚對比，收筆與轉折富有分量。簡潔長方形保留充足木色，襯出姓名本身的力量。",
+    "images": [
+      "images/43.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "笠井俊夫 教授 · The strength of bold strokes",
+        "description": "Bold black characters contrast with the bright wood, giving turns and stroke endings a sense of weight. A simple rectangular board leaves room for both the name and the grain."
+      },
+      "ja": {
+        "title": "笠井俊夫 教授・力強い筆画",
+        "description": "太い黒文字と明るい木地が鮮やかに対比し、折れや筆の収めに力が感じられます。簡潔な長方形に木の色を十分残し、名前そのものを引き立てています。"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "category": "隨身與生活",
+    "title": "化學・隨身的專業印記",
+    "description": "將「化學」二字刻在將棋駒般的木牌上，黑色筆畫與紫色掛繩襯托淺色木紋。把熟悉的學科化為可隨身攜帶的小物，讓書法與個人經歷在方寸間相遇。",
+    "images": [
+      "images/44.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Chemistry · A Personal Emblem",
+        "description": "The characters for chemistry are carved on a shogi-piece-shaped tag. Dark strokes and a purple cord contrast with pale wood, turning a familiar field of study into a small personal object."
+      },
+      "ja": {
+        "title": "化学・身近な専門の印",
+        "description": "将棋駒のような木札に「化學」の二文字を刻みました。黒い筆画と紫の紐が明るい木目を引き立て、親しみある専門分野を持ち歩ける小品にしています。"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "category": "隨身與生活",
+    "title": "積容・木上的兩字",
+    "description": "「積容」二字在小木牌上錯落展開，濃黑筆畫的粗細轉折與自然木紋形成對話。紅色掛繩點亮整體，讓文字小品多了一份溫暖而鮮明的表情。",
+    "images": [
+      "images/45.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Ji Rong · Two Characters in Wood",
+        "description": "Two characters, 積容, unfold across a small wooden tag. Changes in stroke width meet the natural grain, while a red cord adds a warm accent to the calligraphic composition."
+      },
+      "ja": {
+        "title": "積容・木に刻む二文字",
+        "description": "小さな木札に「積容」の二文字を変化をつけて配しました。黒い筆画の太さや折れが木目と響き合い、赤い紐が温かな彩りを添えています。"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "category": "隨身與生活",
+    "title": "蘋果印記・木製吊飾組",
+    "description": "熟悉的缺角蘋果圖案化為黑色木上印記，與將棋駒般的輪廓相映。吊繩、金屬扣環與不同木面光澤，讓同一圖案展現多種隨身小物的趣味。",
+    "images": [
+      "images/46.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Apple Motif · Wooden Charm Set",
+        "description": "A familiar bitten-apple emblem appears in dark relief against warm wood. Cords, a metal clasp and changing surface reflections give the shared motif several variations as an everyday charm."
+      },
+      "ja": {
+        "title": "リンゴの印・木製チャーム",
+        "description": "見慣れた欠けたリンゴの図案を、将棋駒のような木札に表しました。紐や金具、木面の光沢の違いが、同じ図案にさまざまな表情を与えています。"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "category": "隨身與生活",
+    "title": "達摩雙相・線條中的神情",
+    "description": "兩枚木牌以細密線條表現達摩的眉眼、鬍鬚與衣紋，保留木色作為人物的底調。相同題材各具神情，展現小面積人物刻畫與線條疏密的趣味。",
+    "images": [
+      "images/47.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Two Daruma Faces · Character in Lines",
+        "description": "Fine dark lines describe Daruma’s brows, beard and robe on two wooden tags. The warm wood remains visible, allowing small changes of line and expression to distinguish the paired figures."
+      },
+      "ja": {
+        "title": "二つの達磨・線の表情",
+        "description": "二枚の木札に、達磨の眉、鬚、衣の線を細かく表しました。木の色を人物の地として生かし、同じ題材でも異なる表情と線の密度を楽しめる小品です。"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "category": "隨身與生活",
+    "title": "哆啦A夢・木上的童趣",
+    "description": "以大家熟悉的哆啦A夢為題材，笑眼、張開的嘴與抬起的腳，帶出活潑愉快的姿態。輪廓線與細點在溫暖木色上形成層次，將童年記憶帶進隨身小物。",
+    "images": [
+      "images/48.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Doraemon · A Playful Wooden Charm",
+        "description": "Doraemon’s smiling eyes, open mouth and lifted foot give this wooden tag a lively pose. Outlines and fine dots build texture against the warm surface, bringing a familiar childhood character into a small handmade object."
+      },
+      "ja": {
+        "title": "ドラえもん・木の上の遊び心",
+        "description": "笑った目、大きく開いた口、上げた足で、ドラえもんの楽しげな姿を表しました。輪郭線と細かな点が暖かな木色に重なり、懐かしいキャラクターを身近な小品にしています。"
+      }
+    }
   }
 ];

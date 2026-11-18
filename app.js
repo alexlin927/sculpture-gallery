@@ -1,5 +1,5 @@
 const grid=document.querySelector('#works'),filters=document.querySelector('.filters'),dialog=document.querySelector('#viewer');
-const categoryKeys=['牌匾與空間','書法與心語','人物與造形','隨身與生活'];
+const categoryKeys=['牌匾與空間','書法與心語','人物與造形','隨身與生活','名牌與人情'];
 let selected='all',active=0,opener,lang='zh';
 try{const q=new URLSearchParams(location.search).get('lang');lang=ui[q]?q:(ui[localStorage.getItem('sculpture-language')]?localStorage.getItem('sculpture-language'):'zh')}catch{}
 function localized(w){return lang==='zh'?w:{...w,...w.translations[lang]}}
